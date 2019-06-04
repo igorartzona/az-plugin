@@ -2,7 +2,7 @@
 /*
 Plugin Name: az-plugin
 Plugin URI: http://artzona.org
-Description: Чистая заготовка для плагина. Версия 0.1. Март 2019.
+Description: Чистая заготовка для плагина. Версия develop. Март 2019.
 Author: jvj ( Игорь )
 Author URI: http://artzona.org
 Version: 0.1
